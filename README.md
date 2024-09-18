@@ -7,3 +7,6 @@
 Born and based in Seville. Moving pixels since 2016. In love with design and frontend development.
 
 Check out [molina.digital](https://molina.digital)
+
+<img height=200 align="center" src="https://github-readme-stats-jose-m-molinas-projects.vercel.app/api?username=josmolmor&title_color=0d1117&text_color=0d1117" />
+<img height=200 align="center" src="https://github-readme-stats-jose-m-molinas-projects.vercel.app/api/top-langs?username=josmolmor&layout=compact&langs_count=4&card_width=320&title_color=0d1117&text_color=0d1117" />
