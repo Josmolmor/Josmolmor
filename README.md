@@ -7,6 +7,8 @@
 
 Born and based in Seville. Moving pixels since 2016. In love with design and frontend development.
 
+Currently working on something nice with Next, typescript, and Supabase. Coming soon.
+
 Check out [molina.digital](https://molina.digital)
 
 <br/>
