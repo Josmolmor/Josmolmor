@@ -5,9 +5,9 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jmmolina)
 <br />
 
-Born and based in Seville. Moving pixels since 2016. In love with design and frontend development.
+Moving pixels since 2016. 
 
-Currently working on something nice with Next, Typescript, Tailwind and Supabase. Coming soon.
+With a keen interest in working on global platforms, in love with design, and over 8 years of experience in full-stack web development, I've specialized in building high-performance, accessible, responsive, and user-friendly front-end solutions. My expertise lies in crafting modern web applications with meticulous attention to detail, leveraging the latest technologies like TypeScript, React, Vue, Nuxt, and Next.
 
 Check out [molina.digital](https://molina.digital)
 
