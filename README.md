@@ -5,9 +5,14 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jmmolina)
 <br />
 
-Moving pixels since 2016. 
+Moving pixels since 2016.
 
-With a keen interest in working on global platforms, in love with design, and over 8 years of experience in full-stack web development, I've specialized in building high-performance, accessible, responsive, and user-friendly front-end solutions. My expertise lies in crafting modern web applications with meticulous attention to detail, leveraging the latest technologies like TypeScript, React, Vue, Nuxt, and Next.
+As a software engineer specializing in front-end web development, I create accessible, intuitive, and responsive user interfaces that blend clean, modern design with cutting-edge technologies. 
+My keen interest in working with global platforms allows me to apply my skills to projects that reach a diverse, worldwide audience.
+
+While my experience spans the full stack, my passion for design drives me to excel in front-end performance optimization, enhancing user experience through fast load times and seamless interactions. With a meticulous eye for detail, I strive to deliver projects that are not only highly functional but beautifully crafted.
+
+Outside of work, I enjoy spending time with my girlfriend and our playful Pomeranian, Balú.
 
 Check out [molina.digital](https://molina.digital)
 
