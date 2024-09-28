@@ -7,9 +7,8 @@
 
 Moving pixels since 2016.
 
-As a software engineer specializing in front-end web development, I create accessible, intuitive, and responsive user interfaces that blend clean, modern design with cutting-edge technologies. 
+As a software engineer specializing in front-end web development, I create accessible, intuitive, and responsive user interfaces that blend clean, modern design with cutting-edge technologies.
 My keen interest in working with global platforms allows me to apply my skills to projects that reach a diverse, worldwide audience.
-
 While my experience spans the full stack, my passion for design drives me to excel in front-end performance optimization, enhancing user experience through fast load times and seamless interactions. With a meticulous eye for detail, I strive to deliver projects that are not only highly functional but beautifully crafted.
 
 Outside of work, I enjoy spending time with my girlfriend and our playful Pomeranian, Balú.
