@@ -5,6 +5,12 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jmmolina)
 <br />
 
+> Writing computer software is one of the purest creative activities in the history of the human race. Programmers aren't bound by practical limitations such as the laws of physics; we can create exciting virtual worlds with behaviors that could never exist in the real world. Programming doesn't require great physical skill or coordination like ballet or basketball. All programming requires is a creative mind and the ability to organize your thoughts. If you can visualize a system, you can probably implement it in a computer program.
+
+<sub>From "A Philosophy of Software Design" by John Ousterhout</sub>
+
+---
+
 Moving pixels since 2016.
 
 As a software engineer specializing in front-end web development, I create accessible, intuitive, and responsive user interfaces that blend clean, modern design with cutting-edge technologies.
