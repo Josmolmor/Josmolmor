@@ -20,28 +20,3 @@ While my experience spans the full stack, my passion for design drives me to exc
 Outside of work, I enjoy spending time with my girlfriend and our playful Pomeranian, Balú.
 
 Check out [molina.digital](https://molina.digital)
-
-<br/>
-<picture>
-  <source
-    srcset="https://github-readme-stats-jose-m-molinas-projects.vercel.app/api?username=josmolmor&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-jose-m-molinas-projects.vercel.app/api?username=josmolmor"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-jose-m-molinas-projects.vercel.app/api?username=josmolmor&theme=dark" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats-jose-m-molinas-projects.vercel.app/api/top-langs?username=josmolmor&layout=compact&langs_count=4&card_width=320&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-jose-m-molinas-projects.vercel.app/api/top-langs?username=josmolmor&layout=compact&langs_count=4&card_width=320"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-jose-m-molinas-projects.vercel.app/api/top-langs?username=josmolmor&layout=compact&langs_count=4&card_width=320" />
-</picture>
