@@ -11,7 +11,7 @@
 
 ---
 
-Moving pixels since 2016.
+Squinting at a screen to count pixels for a living.
 
 As a software engineer specializing in front-end web development, I create accessible, intuitive, and responsive user interfaces that blend clean, modern design with cutting-edge technologies.
 My keen interest in working with global platforms allows me to apply my skills to projects that reach a diverse, worldwide audience.
