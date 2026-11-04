@@ -16,7 +16,7 @@ I want the work I do to be recognized not just for its function, but for the cra
 
 On the side, I like to cook, take care of my plants, make sure Balu is spoiled, play video games, and do logo design.
 
-Check out 🟦 [molina.digital](https://molina.digital)
+Check out 🟦 [molina.digital](https://molina.digital?utm_source=github)
 
 ---
 
