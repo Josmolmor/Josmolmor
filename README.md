@@ -1,5 +1,7 @@
 # Sup. 🫡
 
+![YOE](https://dynamic-badges.maxalpha.repl.co/age/01/01/2016)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molinamw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/josmolmor/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mlndev)
@@ -7,7 +9,7 @@
 Squinting at a screen counting pixels for a living.
 I write software, mostly the frontend kind. I like figuring out how things work, making them work better, and occasionally spending an unreasonable amount of time getting one tiny detail right.
 
-For the past 10 years, I've worked on software across different products, teams, and technologies. I'm drawn to problems that make me think differently, ideas that challenge the obvious approach, and the space where engineering and design meet.
+With more than a decade of experience, I've worked on software across different products, teams, and technologies. I'm drawn to problems that make me think differently, ideas that challenge the obvious approach, and the space where engineering and design meet.
 
 Check out 🟦 [molina.digital](https://molina.digital?utm_source=github)
 
