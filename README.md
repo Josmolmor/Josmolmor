@@ -1,22 +1,25 @@
 # Sup. 🫡
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:molinamw@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josmolmor/)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jmmolina)
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/josmolmor/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mlndev)
+
+Squinting at a screen, counting pixels for a living.
+
+Software engineer specializing in front-end development, with the versatility to work across the stack, passionate about building digital experiences that feel effortless and look beautiful.
+
+For more than 9 years, I have strived to shape global platforms and products that don't just work but delight.
+
+My focus is on details that make a difference: interfaces that guide instead of confuse, experiences that simplify life, and products that leave a mark.
+
+I want the work I do to be recognized not just for its function, but for the craft and care behind it.
+
+On the side, I like to cook, take care of my plants, make sure Balu is spoiled, play video games, and do logo design.
+
+Check out 🟦 [molina.digital](https://molina.digital)
+
+---
 
 > Writing computer software is one of the purest creative activities in the history of the human race. Programmers aren't bound by practical limitations such as the laws of physics; we can create exciting virtual worlds with behaviors that could never exist in the real world. Programming doesn't require great physical skill or coordination like ballet or basketball. All programming requires is a creative mind and the ability to organize your thoughts. If you can visualize a system, you can probably implement it in a computer program.
 
 <sub>From "A Philosophy of Software Design" by John Ousterhout</sub>
-
----
-
-Squinting at a screen to count pixels for a living.
-
-As a software engineer specializing in front-end web development, I create accessible, intuitive, and responsive user interfaces that blend clean, modern design with cutting-edge technologies.
-My keen interest in working with global platforms allows me to apply my skills to projects that reach a diverse, worldwide audience.
-While my experience spans the full stack, my passion for design drives me to excel in front-end performance optimization, enhancing user experience through fast load times and seamless interactions. With a meticulous eye for detail, I strive to deliver projects that are not only highly functional but beautifully crafted.
-
-Outside of work, I enjoy spending time with my girlfriend and our playful Pomeranian, Balú.
-
-Check out [molina.digital](https://molina.digital)
